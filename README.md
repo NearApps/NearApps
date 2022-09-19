@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nearapps&show_icons=true&locale=en" alt="nearapps" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nearapps&" alt="nearapps" /></p>
+<!--p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nearapps&" alt="nearapps" /></p-->
 
