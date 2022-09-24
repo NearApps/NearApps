@@ -28,12 +28,12 @@
 
 
 ### 🔥 Estadísticas de racha
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=NearApps&theme=vue&hide_border=true"/>
+<!-- GitHub Readme Streak Stats - https://github.com/NearApps/github-readme-streak-stats -->
+<!--p align="center">
+  <a href="https://github.com/NearApps/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NearApps's streak" src="https://streak-stats.demolab.com/?user=NearApps&theme=vue&hide_border=true"/>
   </a>
-</p>
+</p-->
 
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
