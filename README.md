@@ -27,7 +27,7 @@
 - 📫 Puedes contactarme en mi [Linkedin](https://www.linkedin.com/in/juan-carlos-b241b8a4)
 
 
-### 🔥 Estadísticas de racha
+<!--### 🔥 Estadísticas de racha-->
 <!-- GitHub Readme Streak Stats - https://github.com/NearApps/github-readme-streak-stats -->
 <!--p align="center">
   <a href="https://github.com/NearApps/github-readme-streak-stats">
