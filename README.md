@@ -59,7 +59,7 @@
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-### 👨‍💻 Lenguajes de programación y marcado
+<!-- ### 👨‍💻 Lenguajes de programación y marcado
 <p>
     <a href="https://github.com/search?q=user%3ANearApps+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ANearApps+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -120,7 +120,7 @@
     <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+</p-->
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!--## 📊 Github stats-->
