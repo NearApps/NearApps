@@ -11,7 +11,12 @@
   </a>
 </p>
 
-Soy un ingeniero de sistemas enfocado en construir productos digitales, especialmente mobile apps 📱, desde el diseño hasta su desarrollo usando una filosofía centrada en usuarios y ágil. aprendiz todo el tiempo.
+Soy un ingeniero de sistemas enfocado en construir productos digitales, especialmente mobile apps 📱, desde el diseño hasta su desarrollo usando una filosofía centrada en usuarios y ágil.
+
+Soy un ingeniero de sistemas enfocado en el desarrollo de productos digitales, en particular aplicaciones móviles 📱. Me enorgullece trabajar en cada fase del proceso, desde el diseño hasta el desarrollo, para asegurarme de que cada detalle esté pensado en función de la experiencia del usuario. Me identifico con la filosofía ágil, y siempre busco formas de mejorar y optimizar el proceso de desarrollo. Además, siempre estoy buscando aprender más y ampliar mis conocimientos en tecnologías emergentes como Kotlin Multiplatform, Jetpack Compose e Iot en general, para seguir creando soluciones digitales innovadoras y de calidad.
+
+
+Aprendiz todo el tiempo.
 
 ### 🧟 Actualmente colaborando en...
 
