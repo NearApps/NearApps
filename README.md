@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Carlos</h1>
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Mobile Developer | Android | Flutter | KMM</h3>
 
 <p align="center">
 
