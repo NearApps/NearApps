@@ -16,11 +16,11 @@ Soy un ingeniero de sistemas enfocado en el desarrollo de productos digitales, e
 
 ### 🧟 Actualmente colaborando en...
 
-- Desarrollador Android @agrosmartsac.
+- Desarrollador Android [@agrosmartsac](https://github.com/agrosmartsac).
 
 ### 🏃 ¿Qué estoy haciendo?
 
-- Colaborando en el crecimiento de [AgroSmart S.A.C.](https://www.agromas.pe/).
+- Colaborando en el crecimiento de [AgroSmart S.A.C.](https://www.agromas.pe/)
 - Entrando a Jetpack Compose, Swift y Python.
 
 ### 🧰 My Stack
@@ -39,5 +39,5 @@ Soy un ingeniero de sistemas enfocado en el desarrollo de productos digitales, e
 
 ### 👋 ¡Conversemos!
 
-- [Blog](https://nearapps.github.io/portfolio/)
+- [Blog](https://nearapps.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/jcarlos-dev/)
