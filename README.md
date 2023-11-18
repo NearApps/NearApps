@@ -16,11 +16,11 @@ Soy desarrollo de productos digitales, en particular aplicaciones móviles 📱.
 
 ### 🧟 Actualmente colaborando en...
 
-- Desarrollador Android [@agrosmartsac](https://github.com/agrosmartsac).
+- Desarrollador Android [@OverallDev](https://github.com/overalldev).
 
 ### 🏃 ¿Qué estoy haciendo?
 
-- Colaborando en el crecimiento de [AgroSmart S.A.C.](https://www.agromas.pe/)
+- Colaborando en el crecimiento de [OVERALL STRATEGY S.A.C.](https://www.overall.pe/)
 - Entrando a Jetpack Compose, Swift y Python.
 
 ### 🧰 My Stack
