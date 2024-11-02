@@ -1,6 +1,9 @@
 <div>
+  
   <div align="center">
-    # Hi I'm @carlos <img src = "assets/wave.gif" width = 30px>
+  
+  # Hi I'm Carlos 👋
+  
   </div>
   <hr >
 
