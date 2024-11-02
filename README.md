@@ -15,7 +15,6 @@
         name = 'Carlos Alarcon'
         title = 'Software Developer'
         location = 'Perú'
-        email = 'carlos.alarcon.dev@gmail.com'
         linkedin = 'https://www.linkedin.com/in/jcarlos-dev/'
         portfolio = 'https://nearapps.github.io)'
         available = true
@@ -26,7 +25,7 @@
               Hello, World! 👾
               I am ${this.name} - a passionate ${this.title} 🚀
               Located in ${this.location} 🌎
-              Check out my portfolio here: ${this.portfolio} or let's connect on Email or LinkedIn!
+              Check out my portfolio here: ${this.portfolio} or let's connect on LinkedIn!
             `);
           }
         }
