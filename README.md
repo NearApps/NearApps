@@ -16,7 +16,7 @@
         title = 'Software Developer'
         location = 'Perú'
         linkedin = 'https://www.linkedin.com/in/jcarlos-dev/'
-        portfolio = 'https://nearapps.github.io)'
+        portfolio = 'https://nearapps.github.io'
         available = true
 
         contact() {
