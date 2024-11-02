@@ -1,43 +1,64 @@
-<h1 align="center">Hola 👋, mi nombre es Carlos</h1>
-<h3 align="center">Mobile Developer Senior | Android | React Native | Flutter | KMP</h3>
+<div>
+  <div align="center">
+    # Hi I'm @carlos <img src = "assets/wave.gif" width = 30px>
+  </div>
+  <hr >
 
-<p align="center">
+  ```js
+      class CarlosA {
+        name = 'Carlos Alarcon'
+        title = 'Software Developer'
+        location = 'Perú'
+        email = 'carlos.alarcon.dev@gmail.com'
+        linkedin = 'https://www.linkedin.com/in/jcarlos-dev/'
+        portfolio = 'https://nearapps.github.io)'
+        available = true
 
-  <a href="https://github.com/NearApps?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NearApps?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-  <a href="https://github.com/NearApps?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NearApps?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-</p>
+        contact() {
+          if (this.available) {
+            console.log(`
+              Hello, World! 👾
+              I am ${this.name} - a passionate ${this.title} 🚀
+              Located in ${this.location} 🌎
+              Check out my portfolio here: ${this.portfolio} or let's connect on Email or LinkedIn!
+            `);
+          }
+        }
+      }
+  
+      const me = new CarlosA();
+      me.contact()
+  ```
 
-Soy desarrollo de productos digitales, en particular aplicaciones móviles 📱. Me enorgullece trabajar en cada fase del proceso, desde el diseño hasta el desarrollo, para asegurarme de que cada detalle esté pensado en función de la experiencia del usuario. Me identifico con la filosofía ágil, y siempre busco formas de mejorar y optimizar el proceso de desarrollo. Además, siempre estoy buscando aprender más y ampliar mis conocimientos en tecnologías emergentes como Kotlin Multiplatform, Jetpack Compose e Iot en general, para seguir creando soluciones digitales innovadoras y de calidad.
+  <pre>
+    💻 <b>Digital Product Developer</b> focused on mobile applications 📱.
+    📚 Experienced in <b>full product lifecycle</b> management, emphasizing user experience.
+    🚀 Skilled in <b>agile methodologies</b> and patterns like <b>Clean Architecture</b>, MVI, MVVM, MVP.
+    🛠️ Core languages: <b>Kotlin</b>, <b>Python</b>, <b>TypeScript</b>.
+    🚩 Android Developer at <a href="https://www.overall.pe/" target="_blank">OVERALL STRATEGY S.A.C.</a>, driving growth and initiatives with <a href="https://github.com/overalldev" target="_blank">@OverallDev</a>.
+    🧠 Passionate about new technologies in mobile and web development to deliver innovative solutions.
+  </pre>
 
+  ### 🛠 &nbsp;Tech Stack
+  <!-- > (See repo on Link https://github.com/Ileriayo/markdown-badges) </-->
+  <p align="center">
+    
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🧟 Actualmente colaborando en...
+  </p>
 
-- Desarrollador Android [@OverallDev](https://github.com/overalldev).
+  ## My Statistics
 
-### 🏃 ¿Qué estoy haciendo?
+  <table border="0" align="center">
+    <tr border="0">
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=NearApps&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="NearApps's Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=NearApps&theme=dark&hide_border=true" alt="NearApps's Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NearApps&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="NearApps's Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-- Colaborando en el crecimiento de [OVERALL STRATEGY S.A.C.](https://www.overall.pe/)
-- Entrando a Jetpack Compose, Swift y Python.
-
-### 🧰 My Stack
-
-| Technology | Product & Management |
-| ------------- | ------------- |
-| Android Apps: Kotlin, Java  | Agile: Scrum (👨‍🎓)  |
-| Flutter  | Design Sprint  |
-| iOS Apps: Swift  | UI Design: Figma  |
-| Microsoft .NET - C#  | Herramientas: Trello, Jira, Notion, Miro, **¡Papel+Lapiz!**  |
-| Databases: SQL Server, Firestore, MariaDB (👨‍🎓)  |   |
-| Javascript  |   |
-| React (👨‍🎓)  |   |
-| Otros: Postman, Git / GitHub, LateX, Bash, Mucho ☕...  |   |
-
-
-### 👋 ¡Conversemos!
-
-- [Blog](https://nearapps.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/jcarlos-dev/)
+</div>
