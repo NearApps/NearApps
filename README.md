@@ -3,9 +3,12 @@
   <div align="center">
   
   # Hi I'm Carlos 👋
+
+  <!--p align="center">
+    EN | <a href="README-ES.md">ES</a>
+  </p-->
   
   </div>
-  <hr >
 
   ```js
       class CarlosA {
